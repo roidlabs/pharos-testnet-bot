@@ -23,7 +23,7 @@ Follow these steps to get the bot up and running.
 
 ### 1\. Prerequisites
 
-  - [Python 3.8+](https://www.python.org/downloads/)
+  - **Python ≥ 3.10** – [Download Python](https://www.python.org/downloads/)
 
 ### 2\. Installation
 
